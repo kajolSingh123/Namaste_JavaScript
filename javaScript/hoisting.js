@@ -1,11 +1,9 @@
 //+++++++++++++++++++++++++++++++Variables and Function+++++++++++++++++++++++++++++++++++++++++++++++//
-getName();
-// getName2 ();
-// getName3();
+getName();  //Namaste_JavaScript
+//getName2(); //getName2 is not a function
+// getName3();   // getName3 is not a function
 console.log(x);
-console.log(getName);
-console.log(getName2);
-
+console.log(getName());
 var x = 10;
 
 function getName() {
