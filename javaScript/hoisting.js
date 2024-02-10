@@ -7,7 +7,7 @@ console.log(getName2);
 
 var x = 10;
 
-function getName() {
+function getName() {          // here it behave like a function
   console.log("Namaste_JavaScript");
 }
 var getName3 = function (){ // it beheve like variable
